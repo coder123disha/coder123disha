@@ -2,15 +2,48 @@
 
 <!--
 **coder123disha/coder123disha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Disha Shrivastava
 
-Here are some ideas to get you started:
+🎓 I'm an IT engineering student at DAVV with a passion for technology, design, and innovation.  
+💡 I love solving problems through code and crafting meaningful user experiences through UI/UX design.  
+🚀 Currently focusing on improving my DSA skills, building side projects, and exploring opportunities in tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 What I Do
+
+- 🔧 Learning Data Structures and Algorithms in C++ & Python  
+- 🎨 Designing intuitive interfaces and case studies with Figma and Framer  
+- 🧠 Exploring AI/ML fundamentals and practical applications  
+- 🌐 Web Development with HTML, CSS, JavaScript  
+- 📱 Interested in Android development and no-code tools
+
+---
+
+## 🔧 Tools & Technologies
+
+- Languages: `C++`, `Python`, `JavaScript`
+- Design: `Figma`, `Framer`, `Canva`
+- Web: `HTML`, `CSS`, `Git`, `GitHub`
+- Learning: `DBMS`, `Java`, `UI/UX Research`, `Responsive Design`
+
+---
+
+## 📈 Goals
+
+- 💼 Land my first internship in tech or UI/UX design  
+- 📚 Build a solid portfolio with real-world projects  
+- 💡 Launch a meaningful side project or startup idea  
+- 🧘‍♀️ Grow both personally and professionally through consistent effort
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn :www.linkedin.com/in/disha-shrivastava-21a697274
+- 🎨 Behance:https://www.behance.net/dishashrivas26
+- 📬 Email: shrivastavadisha2004@gmail.com
+---
+
+Thanks for visiting my GitHub profile! Feel free to check out my repositories and reach out if you'd like to collaborate.
+
