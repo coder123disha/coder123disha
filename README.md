@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**coder123disha/coder123disha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 # 👋 Hi, I'm Disha Shrivastava
 
 🎓 I'm an IT engineering student at DAVV with a passion for technology, design, and innovation.  
