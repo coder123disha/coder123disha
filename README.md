@@ -29,15 +29,6 @@
 
 ---
 
-## 📈 Goals
-
-- 💼 Land my first internship in tech or UI/UX design  
-- 📚 Build a solid portfolio with real-world projects  
-- 💡 Launch a meaningful side project or startup idea  
-- 🧘‍♀️ Grow both personally and professionally through consistent effort
-
----
-
 ## 📫 Let's Connect
 
 - 💼 LinkedIn :www.linkedin.com/in/disha-shrivastava-21a697274
