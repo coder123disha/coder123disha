@@ -22,7 +22,7 @@
 
 ## 🔧 Tools & Technologies
 
-- Languages: `C++`, `Python`, `JavaScript`,'Java','Python'
+- Languages: `C++`, `Python`, `JavaScript`,`Java`
 - Design: `Figma`, `Framer`, `Canva`
 - Web: `HTML`, `CSS`, `Git`, `GitHub`
 - Learning: `DBMS`, `Java`, `UI/UX Research`, `Responsive Design`
