@@ -12,7 +12,7 @@
 
 ## 👩‍💻 What I Do
 
-- 🔧 Learning Data Structures and Algorithms in C++ & Python  
+- 🔧 Learning Data Structures and Algorithms   
 - 🎨 Designing intuitive interfaces and case studies with Figma and Framer  
 - 🧠 Exploring AI/ML fundamentals and practical applications  
 - 🌐 Web Development with HTML, CSS, JavaScript  
@@ -22,7 +22,7 @@
 
 ## 🔧 Tools & Technologies
 
-- Languages: `C++`, `Python`, `JavaScript`
+- Languages: `C++`, `Python`, `JavaScript`,'Java','Python'
 - Design: `Figma`, `Framer`, `Canva`
 - Web: `HTML`, `CSS`, `Git`, `GitHub`
 - Learning: `DBMS`, `Java`, `UI/UX Research`, `Responsive Design`
